@@ -2,7 +2,7 @@ import random
 #Handcricket
 a=[1,2,3,4,5,6,7,8,9,10]
 
-print("Please type in *CAPS*")
+print("Please type in *CAPS ONLY*")
 
 b=input("Toss choice:H/T:")
 toss=["H","T"]
